@@ -13,7 +13,7 @@
       }
     ],
     "projectSettings": {
-      "framework": "none",
+      "framework": "express",
       "nodeVersion": "14.x",
       "region": "sfo1"
     }
